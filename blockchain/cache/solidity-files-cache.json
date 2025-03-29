@@ -1,0 +1,105 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yashcomputers/Desktop/FraudDetection/NextJS_Nirma_Fronted/nextjs-blockchain-app/blockchain/contracts/Lock.sol": {
+      "lastModificationDate": 1743279919644,
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/Users/yashcomputers/Desktop/FraudDetection/NextJS_Nirma_Fronted/nextjs-blockchain-app/blockchain/contracts/MockBridge.sol": {
+      "lastModificationDate": 1743279919645,
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "sourceName": "contracts/MockBridge.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/Users/yashcomputers/Desktop/FraudDetection/NextJS_Nirma_Fronted/nextjs-blockchain-app/blockchain/contracts/MultiChainWallet.sol": {
+      "lastModificationDate": 1743280031626,
+      "contentHash": "8016c660086552a786a354f21d177ea8",
+      "sourceName": "contracts/MultiChainWallet.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MultiChainTransaction"
+      ]
+    }
+  }
+}
